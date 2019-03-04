@@ -1,2 +1,2 @@
 # Animals
-[Animals](display/assign03_animals.gif)
+[Animals_display](display/assign03_animals.gif)
